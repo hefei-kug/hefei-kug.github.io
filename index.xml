@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>合肥 KUG</title>
+    <link>https://hefei-kug.github.io/</link>
+    <description>Recent content on 合肥 KUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 23 Sep 2023 21:01:19 +0800</lastBuildDate><atom:link href="https://hefei-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fist Post</title>
+      <link>https://hefei-kug.github.io/posts/my-fist-post/</link>
+      <pubDate>Sat, 23 Sep 2023 21:01:19 +0800</pubDate>
+      
+      <guid>https://hefei-kug.github.io/posts/my-fist-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
